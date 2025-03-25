@@ -72,17 +72,8 @@ Despite recent high-profile aviation incidents, CNN reports that air travel rema
 
 
 
-
-
-
-
-
-
-
-
-
-
 References
+
 Dizikes, P. (2024, August 7). Study: Flying keeps getting safer. MIT News | Massachusetts Institute of Technology. https://news.mit.edu/2024/study-flying-keeps-getting-safer-0807 
 
 
