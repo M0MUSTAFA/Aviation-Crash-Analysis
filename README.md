@@ -1,4 +1,4 @@
-![Aircraft-Crashes-Fatalities-Analysis](https://github.com/user-attachments/assets/d867ad47-fbc3-4547-a885-fd5445b933ae)
+![Aircraft-Crashes-Fatalities-Analysis](https://github.com/user-attachments/assets/886d63a6-f484-417c-8e3c-d0a315d7b13b)
 Dataset:
 The dataset used for this analysis is "Air Crashes Full Data 1908 -2024," sourced from Kaggle https://www.kaggle.com/datasets/jogwums/air-crashes-full-data-1908-2023. This dataset provides a comprehensive historical record of airplane crashes worldwide, spanning from 1908 to April 2024, including details such as date, location, aircraft manufacturer, fatalities, quarter, and operator.
 Overview
